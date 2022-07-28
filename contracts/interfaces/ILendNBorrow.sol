@@ -1,0 +1,1 @@
+// interfaces for the protocols to do defi lending
